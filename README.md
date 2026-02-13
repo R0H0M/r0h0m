@@ -1,6 +1,6 @@
 # Hi there, I'm Roham! 👋
 
-### 🚀 Junior Front-End Developer | Computer Engineering Student @ SBUK
+### 🚀Front-End Developer 
 I love building fast, user-friendly, and modern web applications. Currently focusing on mastering **Next.js** and **Scalable Architectures**.
 
 ---
@@ -21,6 +21,5 @@ I love building fast, user-friendly, and modern web applications. Currently focu
 ---
 
 ### 📬 Connect with me
-- 💼 **LinkedIn:** [roham-razavi](https://linkedin.com/in/roham-razavi)
+- 💼 **LinkedIn:** [roham-razavi](https://linkedin.com/in/roham-razavi-ra01)
 - 📧 **Email:** [www.roham.razavi@gmail.com](mailto:www.roham.razavi@gmail.com)
-- 📍 **Location:** Kerman, Iran
