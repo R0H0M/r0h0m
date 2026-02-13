@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Roham! 👋
 
-<!--
-**R0H0M/r0h0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Junior Front-End Developer | Computer Engineering Student @ SBUK
+I love building fast, user-friendly, and modern web applications. Currently focusing on mastering **Next.js** and **Scalable Architectures**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks:** React.js, Next.js (App Router)
+- **State & Data:** Redux Toolkit, TanStack Query
+- **Styling:** Tailwind CSS, CSS Modules
+- **Tools:** Git, GitHub, Postman, Swagger
+
+---
+
+### 📊 GitHub Stats
+![Roham's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0h0m&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0h0m&layout=compact&theme=radical)
+
+---
+
+### 📬 Connect with me
+- 💼 **LinkedIn:** [roham-razavi](https://linkedin.com/in/roham-razavi)
+- 📧 **Email:** [www.roham.razavi@gmail.com](mailto:www.roham.razavi@gmail.com)
+- 📍 **Location:** Kerman, Iran
